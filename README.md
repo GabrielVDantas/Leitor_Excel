@@ -1,6 +1,7 @@
-## Introdução
+## Sobre o projeto
 
-Projeto criado na Imersão Alura + Google sobre IA. É um leitor de planilhas Excel, você coloca o arquivo da planilha no projeto e pode fazer perguntas a respeito dessa planilha.
+Criado na Imersão Alura + Google sobre IA. É um leitor de planilhas Excel, o usuário deve colocar um arquivo contendo uma planilha Excel (um arquivo .xlsx) e poderá fazer perguntas a respeito dessa planilha.
+Elas serão respondidas usando a API do Gemini.
 
 ## Ferramentas usadas
 
@@ -9,10 +10,9 @@ Projeto criado na Imersão Alura + Google sobre IA. É um leitor de planilhas Ex
 
 ## Features
 
-- **Carregar um arquivo .xlsx**: Insira um arquivo .xlsx dentro do projeto para ser analisado
-- **Fazer perguntas**: Faça perguntas a respeito desse arquivo e obtenha uma resposta.
+1. ***Carregar um arquvo .xlsx***: Deve ser inserido um arquivo .xlsx dentro do projeto para ser analisado.
+2. ***Fazer perguntas***: Podem ser feitas perguntas a respeito desse arquivo e serão obtidas respostas.
 
 ## Autor
-
-- Gabriel Viegas Dantas
+  Gabriel Viegas Dantas
   - gvd2808@gmail.com
